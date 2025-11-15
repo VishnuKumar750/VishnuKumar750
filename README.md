@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer | Java • React • Spring Boot • MySQL</h3>
+<h3 align="center">A passionate Full Stack Developer | Java • React • ExpressJS • MongoDB • NodeJS • MySQL</h3>
 
 ---
 
